@@ -1,0 +1,8 @@
+---
+scope: javascript,typescript,typescriptreact
+description: useCallback
+---
+
+const $1 = React.useCallback(() => {
+
+  }, []);
