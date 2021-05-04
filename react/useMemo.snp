@@ -1,8 +1,0 @@
----
-scope: javascript,typescript,typescriptreact
-description: useMemo
----
-
-const $1 = React.useMemo(() => {
-
-  }, []);

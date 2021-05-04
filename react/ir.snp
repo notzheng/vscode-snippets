@@ -1,0 +1,6 @@
+---
+scope: javascript,typescript,typescriptreact
+description: React Function Component
+---
+
+import React from 'react';

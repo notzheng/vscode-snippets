@@ -1,0 +1,14 @@
+---
+scope: javascript,typescript,typescriptreact
+description: React Function Component
+---
+
+const ${componentName} : React.FC = () => {
+  return (
+    <>
+      $0
+    </>
+  )
+}
+
+export default ${componentName};
