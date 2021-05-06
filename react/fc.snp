@@ -5,9 +5,9 @@ description: React Function Component
 
 const ${componentName} = () => {
   return (
-    <>
+    <section>
       $0
-    </>
+    </section>
   )
 }
 
