@@ -3,11 +3,15 @@ scope: javascript,typescript,typescriptreact
 description: React Function Component
 ---
 
-const ${componentName} : React.FC = () => {
+interface I${componentName}Props {
+  $0
+}
+
+const ${componentName} : React.FC<I${componentName}Props> = () => {
   return (
-    <>
-      $0
-    </>
+    <section>
+    
+    </section>
   )
 }
 
